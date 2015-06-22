@@ -6,7 +6,7 @@ test work for https://www.tourismexpo.ru/
 
 ## Team
 
-* Designer: [I do not know =)
+* Designer: I do not know =)
 * Front-End Developer: me =)
 
 ## Technology
